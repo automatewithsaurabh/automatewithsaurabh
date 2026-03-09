@@ -1,16 +1,21 @@
-## Hi there 👋
+# Saurabh Ahire — building in public 🛠️
 
-<!--
-**automatewithsaurabh/automatewithsaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year engineering student by day. AI-first builder always.
 
-Here are some ideas to get you started:
+I ship open source tools for SaaS founders and vibe coders.
+No fluff. Just things that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently shipping
+| Project | What | Status |
+|---|---|---|
+| [saas-gtm-navigator](https://github.com/automatewithsaurabh/saas-gtm-navigator) | Claude Skill for SaaS GTM | ✅ Live |
+| TARKK | AI stack recommender for vibe coders | 🔨 Building |
+| I4 | Competitor intelligence for Indian startups | 🔨 Building |
+
+## How I build
+APIs · Python · Firebase · React · Antigravity · Claude Code
+
+Everything vibe-coded. Everything ships.
+
+## Find me
+[Portfolio](your-portfolio-url) · [LinkedIn](https://www.linkedin.com/in/saurabhahire03/)
