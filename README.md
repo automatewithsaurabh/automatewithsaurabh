@@ -9,7 +9,7 @@ No fluff. Just things that work.
 | Project | What | Status |
 |---|---|---|
 | [saas-gtm-navigator](https://github.com/automatewithsaurabh/saas-gtm-navigator) | Claude Skill for SaaS GTM | ✅ Live |
-| TARKK | AI stack recommender for vibe coders | 🔨 Building |
+| TARKK | AI stack recommender for vibe coders | ✅ Live |
 | I4 | Competitor intelligence for Indian startups | 🔨 Building |
 
 ## How I build
