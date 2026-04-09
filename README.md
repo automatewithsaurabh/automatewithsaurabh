@@ -1,21 +1,21 @@
-# Saurabh Ahire — building in public 🛠️
+# Saurabh Ahire
 
-Final year engineering student by day. AI-first builder always.
+I build AI-powered products and the systems that take them to market.
 
-I ship open source tools for SaaS founders and vibe coders.
-No fluff. Just things that work.
+Engineering with Claude API, Next.js, Python, Supabase.
+GTM with pipeline architecture, outbound systems, and technical customer acquisition.
+Both from scratch. Both at once.
 
-## Currently shipping
-| Project | What | Status |
-|---|---|---|
-| [saas-gtm-navigator](https://github.com/automatewithsaurabh/saas-gtm-navigator) | Claude Skill for SaaS GTM | ✅ Live |
-| [TARKK](https://tarkk-ai.vercel.app/) | AI stack recommender for vibe coders | ✅ Live |
-| I4 | Competitor intelligence for Indian startups | 🔨 Building |
+Currently: Founding GTM Engineer at Commerceflo.
 
-## How I build
-APIs · Python · Firebase · React · Antigravity · Claude Code
+---
 
-Everything vibe-coded. Everything ships.
+**Stack**
+Claude API · Next.js · TypeScript · Python · Supabase · Cloudflare Workers · Vercel
 
-## Find me
-[Portfolio](your-portfolio-url) · [LinkedIn](https://www.linkedin.com/in/saurabhahire03/)
+**Open source**
+[saas-gtm-navigator](https://github.com/automatewithsaurabh/SaaS-GTM-Navigator) — GTM strategy as a Claude Skill, free for any SaaS founder
+
+---
+
+[Portfolio](https://personal-portfolio-bay-psi-78.vercel.app) · [LinkedIn](https://linkedin.com/in/saurabhahire03)
