@@ -52,17 +52,6 @@ Stack recommendation engine for builders. Built solo in under 48 hours using Cla
 
 <br>
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| Claude Code in Action | Anthropic |
-| Generative AI Architectures (LLM · Prompt Engineering · RAG · Vector Databases) | Udemy |
-| Generative AI | Google |
-| Google Data Analytics | Coursera |
-
-<br>
-
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/saurabhahire03) · [Portfolio](https://personal-portfolio-bay-psi-78.vercel.app) · saurabhahire11@gmail.com · Nashik, India
